@@ -38,6 +38,7 @@ export const styles = StyleSheet.create({
         color: "#A8A8A8"
     },
     input: {
+        color: "#191919",
         width: "90%",
         height: 34,
         paddingVertical: 8,
